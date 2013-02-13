@@ -11,7 +11,7 @@ Fanshawe College LAMP2 Project One
 * **Bio:** [student]
 
 ### Alex Jones-Chick
-* **Email:** []
+* **Email:** [a.joneschick@gmail.com]
 * **Bio:** [student]
 
 ### Jaide Haynes
