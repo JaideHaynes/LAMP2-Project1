@@ -16,5 +16,5 @@ The purpose of Project 1 is to introduce to you the purpose and complexity of da
 * **Bio:** [student]
 
 ### Jaide Haynes
-* **Email:** []
+* **Email:** [FILL THIS IN]
 * **Bio:** [student]
